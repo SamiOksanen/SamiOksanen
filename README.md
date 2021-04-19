@@ -6,5 +6,5 @@ My passion is always to be creative. I love to see things that I have made - thi
 
 Send an email to sami.oksanen95@gmail.com or visit samioksanen.fi to learn more.
 
-Specialities: Java, Spring, Maven, REST, T-SQL, PL/SQL, JavaScript, ES6, React, Node, jQuery, Docker, Python, Swift, HTML5, CSS3, CI&CD, Adobe Photoshop CC
+Specialities: Java, Spring, Maven, REST, T-SQL, PL/SQL, JavaScript, ES6, React, Node, jQuery, Docker, Python, Swift, HTML5, CSS3, CI/CD, Adobe Photoshop CC
 
